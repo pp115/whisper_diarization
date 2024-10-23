@@ -1,0 +1,65 @@
+0:00:00 0:00:17 SPEAKER_01  This message comes from PNC Private Bank, who's steady, calculated approach to wealth management might sound boring, but the outcomes are anything but PNC Private Bank, brilliantly boring since 1865. PNC Bank National Association, member FDIC.
+0:00:18 0:00:22 SPEAKER_07  You're listening to shortwave from NPR.
+0:00:24 0:00:25 SPEAKER_06  Hey, sure waivers, Regina Barber here.
+0:00:25 0:00:34 SPEAKER_06  And Emily Kwang, with our bi-weekly science news roundup featuring the hosts of All Things Considered, and today we have fellow Trekky, awesome dude Scott Dettron.
+0:00:34 0:00:37 SPEAKER_09  I'm always happy to be here. I heard we're talking animals this week.
+0:00:37 0:00:41 SPEAKER_07  Yes, there's an ambitious plan underway to protect modern butterflies from climate change.
+0:00:41 0:00:50 SPEAKER_07  Plus new research about a massive migration in the world's oceans, and seven new species of frogs in Madagascar with a name sure to delight Star Trek fans like
+0:00:50 0:00:52 SPEAKER_09  yourself. Yes. I'm excited to hear about them then.
+0:00:52 0:00:56 SPEAKER_06  All of that on this episode of shortwave, the science podcast from NPR.
+0:00:58 0:01:09 SPEAKER_01  This message comes from PNC Private Bank, where a brilliant wealth management decisions are being made using thoughtful analysis and unique insights to chart a path most investors miss.
+0:01:09 0:01:14 SPEAKER_01  It may not be exciting, but PNC believes that's how you build wealth over time.
+0:01:14 0:01:25 SPEAKER_01  At PNC Private Bank, their team of advisors takes a steady and calculated approach, which might sound boring, but the outcomes are anything but PNC Private Bank.
+0:01:25 0:01:32 SPEAKER_01  Brilliantly boring since 1865. PNC Bank, National Association, Member FDIC.
+0:01:32 0:01:37 SPEAKER_01  This message comes from Carvana. Carvana makes car selling easy.
+0:01:37 0:01:51 SPEAKER_01  Enter your license plate or then, answer some questions, and Carvana will give you a real offer in seconds. Whether you're looking to sell your car right now or whenever feels right, go to carvana.com to sell your car that can be in way.
+0:01:51 0:01:57 SPEAKER_00  The days top headlines, local stories from your community, your next podcast binge listen.
+0:01:57 0:02:02 SPEAKER_00  You can have it all in one place, your pocket. Download the NPR app today.
+0:02:06 0:02:11 SPEAKER_09  All right, let's let's save the best for last or at least the Star Trek for last and start with
+0:02:11 0:02:20 SPEAKER_06  the butterflies. Great. Yeah, so millions of these orange butterflies migrate every year across North America and unlike birds, monarchs have never made this journey in their lifetimes before.
+0:02:20 0:02:26 SPEAKER_06  So imagine millions of first generation monarchs flapping in the sun in the force of Mexico.
+0:02:26 0:02:36 SPEAKER_04  So usually you don't listen to flapping over monarchs, but there are so many that you can hear like flapping up, flapping up, flapping up, flapping up. So that is very, very impressive and
+0:02:36 0:02:58 SPEAKER_07  is very unique. This is Qualdomox, Science and Romero at the University of Micahon in Mexico. And like many scientists, Qualdomox wants to protect the monarchs. These butterflies are threatened because the pesticide use habitat loss, but also climate change, which renders these forest sites too warm for monarchs to safely rest in their journey. What is his plan to save them then?
+0:02:59 0:03:14 SPEAKER_07  His plan is to save the trees. So Mexico's monarchs, they like to spend the winter in these trees called OYML or Sacred First. And Qualdomek wondered, what if we planted OYML at higher and thus colder elevations, which may be protected for longer from climate change?
+0:03:14 0:03:18 SPEAKER_09  Interesting. So moving the trees, not like the ants of Lord of the Rings, but rather planting them
+0:03:18 0:03:24 SPEAKER_06  in new locations. Exactly. This is called Assisted Migration, similar to work that's been done in Idaho
+0:03:24 0:03:28 SPEAKER_09  and British Columbia. This is really interesting. How did scientists decide how high up the
+0:03:28 0:04:05 SPEAKER_07  slope to plant new trees then? Using statistical modeling, they chose a dormant volcano called Nevada, Ditoluca, last winter a giant colony of monarch showed up there. I guess it would make sense to follow the butterflies lead. Yeah, absolutely. So in July 2021, community scientists, many from the local tribe joined Gualtemux, research team, and planting over 600 OYML seedlings up the volcano. And after two years of monitoring, the research team found these seedlings had pretty good survival rates at these higher elevations. They published their results in the journal Frontiers in Forest and Global Change this week. The trees are growing at these higher
+0:04:05 0:04:15 SPEAKER_09  altitudes. They're going well, but this is a long-term play. How are they going to make sure that the butterflies are actually going there down the line? Yeah, it's a gamble. A critics say we shouldn't
+0:04:15 0:04:27 SPEAKER_06  be taking such an active role to change the forest. And the paper itself says monarchs may not even use these sides, so only time will tell. And climate change is happening fast. So Scott Hoffman
+0:04:27 0:04:44 SPEAKER_07  Black, the executive director at the Xerces Society, understands the urgency of plans like these. I mean, planting trees is a proactive step. Other species may use these trees someday. And Scott emphasized that work must continue to protect the current OYML trees where they stand in Mexico.
+0:04:44 0:04:46 SPEAKER_09  What is the next migration we're going to be talking about here today?
+0:04:47 0:05:03 SPEAKER_06  Plankton migration, specifically a bioluminescent plant plankton. And what's interesting is the word plankton comes from the Greek word for wanderer because these microscopic organisms at the base of the like entire marine food web were thought to just drift up and down with the
+0:05:03 0:05:28 SPEAKER_07  tide and currents. Scientists have known about this movement from deeper waters to the surface for more than a century, but they didn't know how these plankton were doing this. And a new study out this week in current biology may provide some answers. What are they finding it? All right, so a team of Stanford researchers took samples off the coast of Hawaii and they found that these plankton travel vertically just from around 250 feet or 75 meters deep in the sea all the way up to
+0:05:28 0:05:42 SPEAKER_06  the surface of the ocean. Yeah, and then the researchers then built a device in the lab and that allowed them to like simulate that journey and study what's happening with these plankton along the way. And they found that they do this by inflating up to six times their original size and
+0:05:42 0:05:48 SPEAKER_09  filtering fresh water into themselves. I just pictured quickly leaving an awkward social interaction by
+0:05:48 0:05:57 SPEAKER_06  just puffing myself up and flying. Yeah, that's right. You gotta go floating away from the situation right from the depths. Here's one of the researchers Manu Prakash. This is how he describes it.
+0:05:57 0:06:05 SPEAKER_03  It's almost as if the cell is a tiny little desalination plant and it's pumping these sets of water
+0:06:06 0:06:31 SPEAKER_06  to change its buoyancy. This pumping action makes the plankton less dense, letting them travel straight up to the surface instead of like relying on water currents. This is interesting. Do they know why they're doing it though? Yeah, so these plankton are plants. So they eat by photosynthesizing which requires light and they can only get like that by going much closer to the ocean surface because at 75 meters down there isn't much light. So they're doing it to eat. And this migration
+0:06:31 0:06:46 SPEAKER_07  is a life cycle. Plankton float up, then they sink back deep down. Manu said the cycle happens every seven days, but once a plankton gets to the surface, it will actually divide into two new cells and those new baby plankton sink down and go through the whole cycle again. I really like
+0:06:46 0:06:52 SPEAKER_09  this mental image. It's his soothing. Yeah. Yeah. Let's shift back to land and to Madagascar.
+0:06:52 0:07:03 SPEAKER_06  Andy's newly discovered frog, Regina. Yeah. So seven new species of frogs, they were described in Madagascar and they're not just any frogs. They're named after Star Trek characters. Oh, yes.
+0:07:03 0:07:08 SPEAKER_09  From which series though? Or are we just going across the Star Trek genre with these frogs?
+0:07:08 0:07:18 SPEAKER_06  Scott, it's like everybody. Okay. So like researchers first, they say they named these things because it sounds like Star Trek sound effects like the communicator, but I don't really think it does.
+0:07:18 0:07:23 SPEAKER_08  I do love the names though. We have Captain Kirk's frog, which is Booth is Kirky.
+0:07:25 0:07:28 SPEAKER_08  Captain Picard's frog, which is Booth is Picardy.
+0:07:29 0:07:35 SPEAKER_08  Pikey, Booth is Pikey, and Booth is Archery for Captain Pike and Captain Archery.
+0:07:35 0:07:39 SPEAKER_06  I could be the Star Trek cast. Kind of, right? Yeah. Is it like they're being beamed?
+0:07:39 0:07:48 SPEAKER_06  Is that what they're trying to do? No, it's the old communicator sound in the original series that they're trying to get to. But it's getting into some like deep cuts of like Star Trek names.
+0:07:48 0:08:03 SPEAKER_06  Because Mark Schurz is a huge Trekkie. Mark's the amphibian and reptile curator at the Natural History Museum of Denmark. And he's the senior author on the paper describing these frogs, which came out this week in the journal of vertebrate zoology. Pulling myself away from the
+0:08:03 0:08:08 SPEAKER_09  Star Trek aspect of the story. What? Thank you. You know, sometimes, sometimes it's tough work.
+0:08:08 0:08:26 SPEAKER_07  What do these frogs look like? They all look pretty identical, honestly. Even one of the researchers has a hard time telling them apart, but I can tell you they're an inch long brown with striking eyes. They're so similar looking though that the whistles are what really set them apart and their genetic information. Among other things, yeah. And Mark says the names of these like
+0:08:26 0:08:31 SPEAKER_06  seven new species are meant to convey a sense of wonder in nature and all the undiscovered.
+0:08:31 0:08:45 SPEAKER_08  Star Trek is about science. It's about discovery. It's about exploration and the importance of those things to humanity and our place in the universe. That's right. There are over 400 amphibian species
+0:08:45 0:08:50 SPEAKER_07  Madagascar right now, but Mark guesses there could be hundreds more that scientists have not
+0:08:50 0:09:01 SPEAKER_06  described. Yeah. And just under half of known amphibians on Madagascar are threatened. And even just describing species like in this paper can help conservation efforts by understanding them better.
+0:09:01 0:09:04 SPEAKER_09  Instead of saying goodbye to both of you, I will say, the Vlongan Prosper.
+0:09:05 0:09:12 SPEAKER_07  Wow. Yes. Vlongan Prosper to you too. What do you say? We all did. We did. Oh, yeah, the Vulcan.
+0:09:13 0:09:19 SPEAKER_07  Yeah. Salute. I did it with my left hand even. That's harder. Thank you so much, Scott. Thank you.
+0:09:19 0:09:24 SPEAKER_07  You can hear more from Scott Dettra on Consider This NPR's Afternoon News Podcast. But what
+0:09:24 0:09:41 SPEAKER_06  the news means for you. This episode was produced by Hanuchin and Megan Lim. It was edited by Rebecca Ramirez and Christopher Intalyatta. Tyler Jones, check the facts. I'm Emily Kwong and I'm Regina Barber. Thank you for listening to Shortwave, the science podcast from NPR.
+0:09:42 0:10:04 SPEAKER_07  If you enjoy the shortwave podcast, you should try out NPR+. With NPR+. You'll get to listen to our show, sponsor free. And you can access bonus episodes and other perks across more than 20 of NPR's most popular podcasts. Give a little, get a lot in return. Visit plus.mpr.org.
+0:10:05 0:10:18 SPEAKER_02  Wait, wait, don't tell me. Fresh air. Up first, NPR News Now, Planet Money, Ted Radio Hour, through line, the NPR Politics Podcast, code switch, embedded books we love wild card.
+0:10:19 0:10:30 SPEAKER_02  Are just some of the podcasts you can enjoy sponsor free with NPR+. Get all sorts of perks across more than 20 podcasts with the bundle option. Learn more at plus.npr.org.
+0:10:31 0:10:48 SPEAKER_05  Hey there, it's Tamara Keith. I cover the White House. I know this is hard to believe, but one day, the election will be over. Then, the winner gets a lot more powerful. It's my job to report on what they do with that power. That's public accountability, but it's not possible without public support.
+0:10:48 0:10:54 SPEAKER_05  So please support our work. Sign up for NPR+. Go to plus.npr.org.
